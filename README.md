@@ -2,7 +2,7 @@
 
 [⭐ See live](https://al-react-grocerylist.netlify.app/)
 
-<img src="./src/img/readme.png" width="300px" height="450px">
+<img src="./src/img/readme.png" width="450px" height="450px">
 
 <hr> 
 
