@@ -29,7 +29,7 @@ render() {
         <img onClick={this.heartClicked} className="heart" src={this.state.image} alt="heart" width="60px"/>
       </div>
         <div className="container">
-          <img src={ shoppingImage } width="200px" alt="shopping"/>
+          <img src={ shoppingImage } width="150px" alt="shopping"/>
         </div>
       <div className="container">
         <h1>Grocery List</h1>

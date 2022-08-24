@@ -1,8 +1,8 @@
 # React App Todo list 
 
-[⭐ See live](https://al-react-todolist.netlify.app/)
+[⭐ See live](https://al-react-grocerylist.netlify.app/)
 
-<img src="./src/img/Screen Shot 2022-08-23 at 11.33.50 PM.png">
+<img src="./src/img/readme.png">
 
 <hr> 
 
